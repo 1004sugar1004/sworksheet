@@ -1,0 +1,5 @@
+{
+  "name": "인구보고서",
+  "description": "An interactive worksheet for exploring population changes in Korea using data visualizations. Students can analyze trends in birth rates, aging populations, and overall population structure.",
+  "requestFramePermissions": []
+}
